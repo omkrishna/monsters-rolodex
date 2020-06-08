@@ -4,4 +4,4 @@ A really stupid but really cool (atleast I think so) monsters rolodex build usin
 
 In Action : https://omkrishna.github.io/monsters-rolodex
 
-Components : Card-List / Card / SearchBox
+Reusable Components : Card-List / Card / SearchBox
